@@ -13,3 +13,6 @@ Useful Links:
 9. Final Keyword in Java: https://www.youtube.com/watch?v=r9CMJZ4T__8
 10. this keyowrd in Java: https://www.youtube.com/watch?v=ETLHbHenW44
 11. POJO in Java: https://www.youtube.com/watch?v=oqPiEc2zNb0
+
+Good Channel for Java
+Programming with John: https://www.youtube.com/@CodingWithJohn
