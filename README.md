@@ -26,7 +26,7 @@ Useful Links:
 20. Multithreading in Java: https://www.youtube.com/watch?v=r_MbozD32eo
 21. Java Multiple Inheritance and Composition: https://www.digitalocean.com/community/tutorials/multiple-inheritance-in-java
 22. Java Virtual threads: https://medium.com/@RamLakshmanan/java-virtual-threads-easy-introduction-44d96b8270f8
-23. Java Stream API: https://www.baeldung.com/java-8-streams
+23. Java Stream API: [https://www.baeldung.com/java-8-streams](https://www.baeldung.com/java-8-streams-introduction)
 
 Good Channel for Java
 Programming with John: https://www.youtube.com/@CodingWithJohn
