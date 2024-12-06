@@ -28,6 +28,10 @@ Useful Links:
 22. Java Multiple Inheritance and Composition: https://www.digitalocean.com/community/tutorials/multiple-inheritance-in-java
 23. Java Virtual threads: https://medium.com/@RamLakshmanan/java-virtual-threads-easy-introduction-44d96b8270f8
 24. Java Stream API: <br> [https://www.baeldung.com/java-8-streams](https://www.baeldung.com/java-8-streams-introduction) <br> https://www.youtube.com/watch?v=tklkyVa7KZo
+25. Java File IO: https://www.youtube.com/watch?v=ScUJx4aWRi0
+26. Checked vs Unchecked Exception: https://www.youtube.com/watch?v=bCPClyGsVhc
+27. Exception Handling in Java: https://www.youtube.com/watch?v=1XAfapkBQjk
+28. Optionals in Java: https://www.youtube.com/watch?v=vKVzRbsMnTQ
 
 Good Channel for Java
 Programming with John: https://www.youtube.com/@CodingWithJohn
