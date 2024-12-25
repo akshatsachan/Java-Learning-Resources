@@ -32,6 +32,7 @@ Useful Links:
 26. Checked vs Unchecked Exception: https://www.youtube.com/watch?v=bCPClyGsVhc
 27. Exception Handling in Java: https://www.youtube.com/watch?v=1XAfapkBQjk
 28. Optionals in Java: https://www.youtube.com/watch?v=vKVzRbsMnTQ
+29. Java Multithreading Tutorial: https://jenkov.com/tutorials/java-concurrency/index.html
 
 Good Channel for Java
 Programming with John: https://www.youtube.com/@CodingWithJohn
